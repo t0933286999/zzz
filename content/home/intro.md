@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 魚魚魚 ✏️ Blog Template
-subtitle: 'For [歡迎來這地方](http://www.mceea.url.tw/)'
+subtitle: 'For [歡迎來這地方](http://www.mceea.url.tw/https://www.youtube.com/watch?v=wVE6qmueqGU)'
 
 design:
   background:
