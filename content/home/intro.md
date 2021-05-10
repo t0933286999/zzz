@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 魚魚魚 ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [歡迎來這地方](http://www.mceea.url.tw/)'
 
 design:
   background:
